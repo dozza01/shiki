@@ -1,0 +1,56 @@
+:root {
+  /* Цвета текстов */
+  --color-text-primary: #e3e3e3;
+  --color-text-secondary: #b9b9b9;
+  --color-text-hint: #9a9a9a;
+  --color-text-disabled: #777777;
+  --color-overlay-text-hovered: rgba(227, 227, 227, 0.04);
+  --color-overlay-text-selected: rgba(227, 227, 227, 0.08);
+  --color-overlay-text-pressed: rgba(227, 227, 227, 0.12);
+  /* Цвет ссылок */
+  --color-link: #2196f3;
+  --color-link-hover: #ffac1c;
+  --color-link-active: #de8d00;
+  /* Основной цвет */
+  --color-primary: #2196f3;
+  --color-text-on-primary: #e2f1fd;
+  --color-primary-reduced: #2276b9;
+  --color-primary-hovered: #339ef4;
+  --color-primary-pressed: #2090e9;
+  --color-overlay-primary-hovered: rgba(33, 150, 243, 0.08);
+  --color-overlay-primary-selected: rgba(33, 150, 243, 0.12);
+  --color-overlay-primary-pressed: rgba(33, 150, 243, 0.16);
+  /* Акцентирующий цвет */
+  --color-accent: #ffac1c;
+  --color-text-on-accent: #211604;
+  --color-accent-reduced: #c2861e;
+  --color-accent-fade: #8d6520;
+  --color-overlay-accent-hovered: rgba(255, 172, 28, 0.08);
+  --color-overlay-accent-selected: rgba(255, 172, 28, 0.12);
+  --color-overlay-accent-pressed: rgba(255, 172, 28, 0.16);
+  /* Фоновые цвета */
+  --color-background: #242424;
+  --color-background-translucent: rgba(36, 36, 36, 0.9);
+  --color-background-dialog: #313131;
+  --color-surface: #2e2e2e;
+  --color-surface-hover: #3f3f3f;
+  --color-surface-active: #474747;
+  --color-border: #3e3e3e;
+  /* Цвета верхнего меню */
+  --color-menu-background: #343434;
+  --color-menu-background-fade: rgba(52, 52, 52, 0.48);
+  --color-menu-text-primary: #e5e5e5;
+  --color-menu-text-disabled: #818181;
+  --color-menu-icon: #cecece;
+  --color-menu-search: #4c4c4c;
+  --color-menu-search-fade: rgba(229, 229, 229, 0.12);
+  --color-menu-background-hover: #444444;
+  --color-menu-background-active: #4c4c4c;
+  /* Цвета кнопок списков */
+  --color-planned: #3e5d6a;
+  --color-onhold: #4b4b4b;
+  --color-watching: #384f59;
+  --color-rewatching: #384f59;
+  --color-completed: #4b533a;
+  --color-dropped: #552f2f;
+}
